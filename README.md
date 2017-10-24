@@ -2,10 +2,10 @@
 Details how to upscale iOS App Store Preview Video (i.e. iPhone 7 to iPhone 7+)
 
 ## Create App Store Preview Video
-Create App Store Preview video using iMovie (https://www.apple.com/imovie/).
+Create App Store Preview video using [iMovie](https://www.apple.com/imovie/).
 
 ## Download & install FFMPEG
-* Download FFMPEG http://www.ffmpegmac.net
+* Download [FFMPEG](http://www.ffmpegmac.net)
 * Extract
 * Copy the ffmpeg files (3) to `/usr/local/bin`
 * Make the ffmpeg files executable `sudo chmod +x /usr/local/bin/ff*`
